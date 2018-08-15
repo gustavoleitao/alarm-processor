@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurations>
+
+    <configuration alarmtag="xmv-01" processtag="xmv-01" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="xmv-02" processtag="xmv-02" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="xmv-03" processtag="xmv-03" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="xmv-04" processtag="xmv-04" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="xmv-05" processtag="xmv-05" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="xmv-06" processtag="xmv-06" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="xmv-07" processtag="xmv-07" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="xmv-08" processtag="xmv-08" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="xmv-09" processtag="xmv-09" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="xmv-10" processtag="xmv-10" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="xmv-11" processtag="xmv-11" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="xmv-12" processtag="xmv-12" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <default filterSignalValue="0.8" filterSpeedValue="0.1" typePrediction="linear"/>
+
+</configurations>

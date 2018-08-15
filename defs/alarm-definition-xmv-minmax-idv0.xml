@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<alarms>
+    <alarm tag="xmv-01">
+        <low deadband="0.05" priority="100">62.266105</low>
+        <high deadband="0.05" priority="100">63.533085</high>
+    </alarm>
+    <alarm tag="xmv-02">
+        <low deadband="0.05" priority="100">52.54396</low>
+        <high deadband="0.05" priority="100">53.76549</high>
+    </alarm>
+    <alarm tag="xmv-03">
+        <low deadband="0.05" priority="100">24.29591</low>
+        <high deadband="0.05" priority="100">28.25658</high>
+    </alarm>
+    <alarm tag="xmv-04">
+        <low deadband="0.05" priority="100">59.927855</low>
+        <high deadband="0.05" priority="100">61.28691</high>
+    </alarm>
+    <alarm tag="xmv-05">
+        <low deadband="0.05" priority="100">0.0</low>
+        <high deadband="0.05" priority="100">0.0</high>
+    </alarm>
+    <alarm tag="xmv-06">
+        <low deadband="0.05" priority="100">21.319865</low>
+        <high deadband="0.05" priority="100">29.672625</high>
+    </alarm>
+    <alarm tag="xmv-07">
+        <low deadband="0.05" priority="100">36.927435</low>
+        <high deadband="0.05" priority="100">37.48851</high>
+    </alarm>
+    <alarm tag="xmv-08">
+        <low deadband="0.05" priority="100">46.133175</low>
+        <high deadband="0.05" priority="100">46.747575</high>
+    </alarm>
+    <alarm tag="xmv-09">
+        <low deadband="0.05" priority="100">0.0</low>
+        <high deadband="0.05" priority="100">0.0</high>
+    </alarm>
+    <alarm tag="xmv-10">
+        <low deadband="0.05" priority="100">35.434935</low>
+        <high deadband="0.05" priority="100">36.426224999999995</high>
+    </alarm>
+    <alarm tag="xmv-11">
+        <low deadband="0.05" priority="100">6.882912500000001</low>
+        <high deadband="0.05" priority="100">18.66486</high>
+    </alarm>
+    <alarm tag="xmv-12">
+        <low deadband="0.05" priority="100">99.5</low>
+        <high deadband="0.05" priority="100">100.5</high>
+    </alarm>
+</alarms>

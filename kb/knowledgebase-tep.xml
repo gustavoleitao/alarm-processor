@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<failures>
+
+    <failure id="1" priority="100">
+
+        <msg>falha-01</msg>
+
+        <trigger>
+            <alarm tag="simout-02" type="HIGH"/>
+            <alarm tag="simout-22" type="LOW"/>
+            <alarm tag="simout-05" type="LOW"/>
+        </trigger>
+
+        <expected>
+            <alarm id="0" tag="simout-01" type="LOW"/>
+            <alarm id="1" tag="simout-02" type="HIGH"/>
+            <alarm id="2" tag="simout-05" type="LOW"/>
+            <alarm id="3" tag="simout-06" type="LOW"/>
+            <alarm id="4" tag="simout-08" type="HIGH"/>
+            <alarm id="5" tag="simout-11" type="LOW"/>
+            <alarm id="6" tag="simout-12" type="HIGH"/>
+            <alarm id="7" tag="simout-14" type="HIGH"/>
+            <alarm id="8" tag="simout-15" type="HIGH"/>
+            <alarm id="9" tag="simout-18" type="LOW"/>
+            <alarm id="10" tag="simout-20" type="LOW"/>
+            <alarm id="11" tag="simout-22" type="LOW"/>
+        </expected>
+
+    </failure>
+
+    <failure id="2" priority="100">
+
+        <msg>falha-02</msg>
+
+        <trigger>
+            <alarm tag="simout-03" type="HIGH"/>
+            <alarm tag="simout-22" type="LOW"/>
+            <alarm tag="simout-08" type="HIGH"/>
+        </trigger>
+
+        <expected>
+            <alarm id="0" tag="simout-03" type="HIGH"/>
+            <alarm id="1" tag="simout-05" type="LOW"/>
+            <alarm id="2" tag="simout-08" type="HIGH"/>
+            <alarm id="3" tag="simout-11" type="LOW"/>
+            <alarm id="4" tag="simout-12" type="HIGH"/>
+            <alarm id="5" tag="simout-14" type="HIGH"/>
+            <alarm id="6" tag="simout-15" type="LOW"/>
+            <alarm id="7" tag="simout-18" type="LOW"/>
+            <alarm id="8" tag="simout-20" type="LOW"/>
+            <alarm id="9" tag="simout-22" type="LOW"/>
+
+        </expected>
+
+    </failure>
+
+    <failure id="3" priority="100">
+
+        <msg>falha-03</msg>
+
+        <trigger>
+            <alarm tag="simout-01" type="LOW"/>
+            <alarm tag="simout-15" type="LOW"/>
+            <alarm tag="simout-20" type="LOW"/>
+        </trigger>
+
+        <expected>
+            <alarm id="0" tag="simout-01" type="LOW"/>
+            <alarm id="1" tag="simout-03" type="HIGH"/>
+            <alarm id="2" tag="simout-05" type="LOW"/>
+            <alarm id="3" tag="simout-06" type="LOW"/>
+            <alarm id="4" tag="simout-12" type="HIGH"/>
+            <alarm id="5" tag="simout-14" type="HIGH"/>
+            <alarm id="6" tag="simout-15" type="LOW"/>
+            <alarm id="7" tag="simout-18" type="LOW"/>
+            <alarm id="8" tag="simout-20" type="LOW"/>
+            <alarm id="9" tag="simout-22" type="LOW"/>
+
+        </expected>
+
+    </failure>
+
+    <failure id="4" priority="100">
+
+        <msg>falha-04</msg>
+
+        <trigger>
+            <alarm tag="simout-04" type="LOW"/>
+            <alarm tag="simout-18" type="HIGH"/>
+            <alarm tag="simout-06" type="LOW"/>
+        </trigger>
+
+        <expected>
+            <alarm id="0" tag="simout-01" type="LOW"/>
+            <alarm id="1" tag="simout-04" type="LOW"/>
+            <alarm id="2" tag="simout-06" type="LOW"/>
+            <alarm id="3" tag="simout-07" type="LOW"/>
+            <alarm id="4" tag="simout-08" type="LOW"/>
+            <alarm id="5" tag="simout-11" type="HIGH"/>
+            <alarm id="6" tag="simout-12" type="LOW"/>
+            <alarm id="7" tag="simout-13" type="LOW"/>
+            <alarm id="8" tag="simout-14" type="LOW"/>
+            <alarm id="9" tag="simout-15" type="HIGH"/>
+            <alarm id="10" tag="simout-16" type="LOW"/>
+            <alarm id="11" tag="simout-18" type="HIGH"/>
+            <alarm id="12" tag="simout-21" type="HIGH"/>
+            <alarm id="13" tag="simout-22" type="HIGH"/>
+        </expected>
+
+    </failure>
+
+    <failure id="6" priority="100">
+
+        <msg>falha-06</msg>
+
+        <trigger>
+            <alarm tag="simout-12" type="LOW"/>
+            <alarm tag="simout-15" type="LOW"/>
+            <alarm tag="simout-01" type="HIGH"/>
+        </trigger>
+
+        <expected>
+            <alarm id="0" tag="simout-01" type="HIGH"/>
+            <alarm id="1" tag="simout-05" type="LOW"/>
+            <alarm id="2" tag="simout-06" type="LOW"/>
+            <alarm id="3" tag="simout-07" type="LOW"/>
+            <alarm id="4" tag="simout-12" type="LOW"/>
+            <alarm id="5" tag="simout-13" type="LOW"/>
+            <alarm id="6" tag="simout-15" type="LOW"/>
+            <alarm id="7" tag="simout-16" type="LOW"/>
+            <alarm id="8" tag="simout-20" type="LOW"/>
+            <alarm id="9" tag="simout-22" type="LOW"/>
+        </expected>
+
+    </failure>
+
+    <failure id="7" priority="100">
+
+        <msg>falha-07</msg>
+
+        <trigger>
+            <alarm tag="simout-14" type="LOW"/>
+            <alarm tag="simout-15" type="LOW"/>
+            <alarm tag="simout-12" type="HIGH"/>
+        </trigger>
+
+        <expected>
+            <alarm id="0" tag="simout-12" type="HIGH"/>
+            <alarm id="1" tag="simout-14" type="LOW"/>
+            <alarm id="2" tag="simout-15" type="LOW"/>
+            <alarm id="3" tag="simout-18" type="LOW"/>
+        </expected>
+
+    </failure>
+
+    <failure id="8" priority="100">
+
+        <msg>falha-08</msg>
+
+        <trigger>
+            <alarm tag="simout-17" type="LOW"/>
+            <alarm tag="simout-15" type="HIGH"/>
+            <alarm tag="simout-04" type="HIGH"/>
+        </trigger>
+
+        <expected>
+            <alarm id="0" tag="simout-02" type="HIGH"/>
+            <alarm id="1" tag="simout-03" type="HIGH"/>
+            <alarm id="2" tag="simout-04" type="HIGH"/>
+            <alarm id="3" tag="simout-14" type="HIGH"/>
+            <alarm id="4" tag="simout-15" type="HIGH"/>
+            <alarm id="5" tag="simout-17" type="LOW"/>
+        </expected>
+
+    </failure>
+
+    <failure id="10" priority="100">
+
+        <msg>falha-10</msg>
+
+        <trigger>
+            <alarm tag="simout-21" type="HIGH"/>
+            <alarm tag="simout-09" type="HIGH"/>
+            <alarm tag="simout-05" type="LOW"/>
+        </trigger>
+
+        <expected>
+            <alarm id="0" tag="simout-05" type="LOW"/>
+            <alarm id="1" tag="simout-06" type="LOW"/>
+            <alarm id="2" tag="simout-08" type="LOW"/>
+            <alarm id="3" tag="simout-09" type="HIGH"/>
+            <alarm id="4" tag="simout-11" type="HIGH"/>
+            <alarm id="5" tag="simout-12" type="HIGH"/>
+            <alarm id="6" tag="simout-14" type="HIGH"/>
+            <alarm id="7" tag="simout-20" type="LOW"/>
+            <alarm id="8" tag="simout-21" type="HIGH"/>
+        </expected>
+
+    </failure>
+
+    <failure id="11" priority="100">
+
+        <msg>falha-11</msg>
+
+        <trigger>
+            <alarm tag="simout-22" type="LOW"/>
+            <alarm tag="simout-11" type="LOW"/>
+            <alarm tag="simout-12" type="HIGH"/>
+        </trigger>
+
+        <expected>
+            <alarm id="0" tag="simout-07" type="LOW"/>
+            <alarm id="1" tag="simout-08" type="LOW"/>
+            <alarm id="2" tag="simout-11" type="LOW"/>
+            <alarm id="3" tag="simout-12" type="HIGH"/>
+            <alarm id="4" tag="simout-13" type="LOW"/>
+            <alarm id="5" tag="simout-14" type="HIGH"/>
+            <alarm id="6" tag="simout-15" type="HIGH"/>
+            <alarm id="7" tag="simout-16" type="LOW"/>
+            <alarm id="8" tag="simout-18" type="LOW"/>
+            <alarm id="9" tag="simout-22" type="LOW"/>
+        </expected>
+
+    </failure>
+
+</failures>

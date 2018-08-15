@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurations>
+
+    <configuration alarmtag="simout-01" processtag="simout-01" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-02" processtag="simout-02" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-03" processtag="simout-03" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-04" processtag="simout-04" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-05" processtag="simout-05" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-06" processtag="simout-06" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-07" processtag="simout-07" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-08" processtag="simout-08" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-09" processtag="simout-09" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-10" processtag="simout-10" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-11" processtag="simout-11" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-12" processtag="simout-12" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-13" processtag="simout-13" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-14" processtag="simout-14" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-15" processtag="simout-15" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-16" processtag="simout-16" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-17" processtag="simout-17" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-18" processtag="simout-18" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-19" processtag="simout-19" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-20" processtag="simout-20" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-21" processtag="simout-21" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-22" processtag="simout-22" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-23" processtag="simout-23" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-24" processtag="simout-24" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-25" processtag="simout-25" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-26" processtag="simout-26" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-27" processtag="simout-27" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-28" processtag="simout-28" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-29" processtag="simout-29" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-30" processtag="simout-30" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-31" processtag="simout-31" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-32" processtag="simout-32" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-33" processtag="simout-33" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-34" processtag="simout-34" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-35" processtag="simout-35" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-36" processtag="simout-36" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-37" processtag="simout-37" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-38" processtag="simout-38" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-39" processtag="simout-39" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-40" processtag="simout-40" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <configuration alarmtag="simout-41" processtag="simout-41" filterSignalValue="0.8" filterSpeedValue="0.05" typePrediction="linear"/>
+    <default filterSignalValue="0.8" filterSpeedValue="0.1" typePrediction="linear"/>
+
+</configurations>

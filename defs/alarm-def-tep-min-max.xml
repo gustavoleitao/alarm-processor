@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<alarms>
+    <alarm tag="simout-01">
+        <low deadband="0.05" priority="100">0.2264</low>
+        <high deadband="0.05" priority="100">0.3140</high>
+    </alarm>
+    <alarm tag="simout-02">
+        <low deadband="0.05" priority="100">3213.54</low>
+        <high deadband="0.05" priority="100">4109.82</high>
+    </alarm>
+    <alarm tag="simout-03">
+        <low deadband="0.05" priority="100">3910.68</low>
+        <high deadband="0.05" priority="100">4998.07</high>
+    </alarm>
+    <alarm tag="simout-04">
+        <low deadband="0.05" priority="100">8.10765</low>
+        <high deadband="0.05" priority="100">10.3980</high>
+    </alarm>
+    <alarm tag="simout-05">
+        <low deadband="0.05" priority="100">28.4058</low>
+        <high deadband="0.05" priority="100">36.6751</high>
+    </alarm>
+    <alarm tag="simout-06">
+        <low deadband="0.05" priority="100">42.03</low>
+        <high deadband="0.05" priority="100">53.3368</high>
+    </alarm>
+    <alarm tag="simout-07">
+        <low deadband="0.05" priority="100">2516.4</low>
+        <high deadband="0.05" priority="100">3084.5099</high>
+    </alarm>
+    <alarm tag="simout-08">
+        <low deadband="0.05" priority="100">56.4507</low>
+        <high deadband="0.05" priority="100">73.7759</high>
+    </alarm>
+    <alarm tag="simout-09">
+        <low deadband="0.05" priority="100">110.565</low>
+        <high deadband="0.05" priority="100">135.245</high>
+    </alarm>
+    <alarm tag="simout-10">
+        <low deadband="0.05" priority="100">0.1652</low>
+        <high deadband="0.05" priority="100">0.2743</high>
+    </alarm>
+    <alarm tag="simout-11">
+        <low deadband="0.05" priority="100">82.6155</low>
+        <high deadband="0.05" priority="100">101.519</high>
+    </alarm>
+    <alarm tag="simout-12">
+        <low deadband="0.05" priority="100">41.1831</low>
+        <high deadband="0.05" priority="100">59.8312</high>
+    </alarm>
+    <alarm tag="simout-13">
+        <low deadband="0.05" priority="100">2430.54</low>
+        <high deadband="0.05" priority="100">2979.57</high>
+    </alarm>
+    <alarm tag="simout-14">
+        <low deadband="0.05" priority="100">22.2561</low>
+        <high deadband="0.05" priority="100">28.34</high>
+    </alarm>
+    <alarm tag="simout-15">
+        <low deadband="0.05" priority="100">41.4162</low>
+        <high deadband="0.05" priority="100">59.8433</high>
+    </alarm>
+    <alarm tag="simout-16">
+        <low deadband="0.05" priority="100">2995.02</low>
+        <high deadband="0.05" priority="100">3670.37</high>
+    </alarm>
+    <alarm tag="simout-17">
+        <low deadband="0.05" priority="100">20.169</low>
+        <high deadband="0.05" priority="100">25.729</high>
+    </alarm>
+    <alarm tag="simout-18">
+        <low deadband="0.05" priority="100">59.8689</low>
+        <high deadband="0.05" priority="100">73.4866</high>
+    </alarm>
+    <alarm tag="simout-19">
+        <low deadband="0.05" priority="100">-5.248</low>
+        <high deadband="0.05" priority="100">5.2281</high>
+    </alarm>
+    <alarm tag="simout-20">
+        <low deadband="0.05" priority="100">244.62</low>
+        <high deadband="0.05" priority="100">301.829</high>
+    </alarm>
+    <alarm tag="simout-21">
+        <low deadband="0.05" priority="100">92.151</low>
+        <high deadband="0.05" priority="100">112.816</high>
+    </alarm>
+    <alarm tag="simout-22">
+        <low deadband="0.05" priority="100">82.5588</low>
+        <high deadband="0.05" priority="100">102.2934</high>
+    </alarm>
+
+</alarms>

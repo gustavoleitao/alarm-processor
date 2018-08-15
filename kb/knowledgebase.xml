@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<failures>
+
+    <failure id="1" priority="100">
+
+        <msg>Vazão nula/baixa da carga</msg>
+
+        <trigger>
+            <alarm tag="simout-01" type="low"/>
+        </trigger>
+
+        <expected>
+            <alarm id="0" tag="simout-01" type="low"/>
+            <alarm id="1" tag="simout-01" type="high"/>
+            <edge id="e1" source="0" target="1" delay="50"/>
+        </expected>
+
+    </failure>
+
+</failures>
